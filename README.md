@@ -1,1 +1,1 @@
-# booking-2
+# booking app
